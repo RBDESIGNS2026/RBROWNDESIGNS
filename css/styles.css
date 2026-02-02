@@ -11,6 +11,7 @@ body {
   background-color: #faf9f7;
   color: #2e3440;
   line-height: 1.6;
+   min-height: 100vh;
 }
 
 /* LAYOUT */
@@ -77,4 +78,13 @@ h1 {
   border-radius: 16px;
 }
 
-/* FOOT
+/* FOOTER */
+.footer-note {
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #9ca3af;
+}
+
+
+
