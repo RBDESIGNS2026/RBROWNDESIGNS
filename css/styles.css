@@ -63,7 +63,7 @@ h1 {
 }
 
 .module-list a:hover {
-  color: #6b9c8f; /* subtle cactus green */
+  color: #6b9c8f;
 }
 
 /* FOOTER NOTE */
@@ -83,12 +83,11 @@ h1 {
 }
 
 /* IMAGE COLUMN */
-.side-image img {
+.right img {
   width: 100%;
-  border-radius: 16px;
+  max-height: 420px;
   object-fit: cover;
+  border-radius: 16px;
 }
 
-
-}
 
